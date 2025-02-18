@@ -1,0 +1,9 @@
+<dependencies>
+    <!-- Javax Persistence API (Phiên bản cũ, dành cho Java 8-11) -->
+    <dependency>
+        <groupId>javax.persistence</groupId>
+        <artifactId>javax.persistence-api</artifactId>
+        <version>2.2</version>  <!-- Hoặc kiểm tra phiên bản mới nhất -->
+        <scope>provided</scope>
+    </dependency>
+</dependencies>
